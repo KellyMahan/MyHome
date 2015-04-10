@@ -2,6 +2,10 @@
 
 This is just a combination of gems and foreman script to start up my wink home automation with Amazon Echo for voice control.
 
+Here is a video demonstration.
+
+[Youtube](https://www.youtube.com/watch?v=bGfPRS1Bdjk)
+
 ## Installation
 
 first clone this repository
@@ -14,9 +18,9 @@ And then execute:
 
 ## Associated Gems
 
-* Winker ( https://github.com/KellyMahan/winker )
-* WinkerAI ( https://github.com/KellyMahan/WinkerAI )
-* AmazonEchoJS ( https://github.com/KellyMahan/AmazonEchoJS )
+* [Winker](https://github.com/KellyMahan/winker)
+* [WinkerAI](https://github.com/KellyMahan/WinkerAI)
+* [AmazonEchoJS](https://github.com/KellyMahan/AmazonEchoJS)
 
 ## Usage
 
