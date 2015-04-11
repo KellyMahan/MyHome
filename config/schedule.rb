@@ -19,5 +19,5 @@
 
 # Learn more: http://github.com/javan/whenever
 every 1.minute do
-  command "/Users/kmahan/Rails/MyHome/myhomestart.sh"
+  command "cd /Users/kmahan/Rails/MyHome/ && ./myhomestart.sh"
 end
